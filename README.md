@@ -77,6 +77,7 @@ Got it, Aryan — here’s **Task No. 2 – Proper Execution Guide** for your **
 * Keep fonts, colors, and images consistent.
 * Replace all placeholder content with AI-generated text & visuals.
 * Check design on mobile, tablet, and desktop.
+* url:https://preview.webflow.com/preview/ai-fitness-assistant-websites-fit-buddy?utm_medium=preview_link&utm_source=dashboard&utm_content=ai-fitness-assistant-websites-fit-buddy&preview=24f1aedce6413c267b4376aab9d9f833&workflow=preview
 
 ---
 
